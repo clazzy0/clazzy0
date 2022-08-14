@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @clazzy0
-- 👀 I’m interested in Python, ML
+- 👀 I’m interested in Python, Learning and Coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything and everything.
 - 📫 How to reach me: zactualhype@gmail.com
