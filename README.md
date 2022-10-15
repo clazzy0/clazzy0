@@ -2,4 +2,4 @@
 - 👀 I’m interested in Python, Making Cool Projects, and Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything and everything.
-- 📫 How to reach me: zactualhype@gmail.com
+- 📫 How to reach me: jianingchen16@gmail.com
