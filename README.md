@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @clazzy0
 - 👀 I’m interested in Python, Making Cool Projects, and Learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on anything and everything.
 - 📫 How to reach me: jianingchen16@gmail.com
